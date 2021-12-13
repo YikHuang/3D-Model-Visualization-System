@@ -63,3 +63,7 @@
     > To generate higher resolution of image, I  just concatenate the same hatching image as 2 by 2, 3 by 3, or even 10 by 10, and put  all of them together horizontally
 
   - The file name of hatching texture would be like “hatch_number.jpg”.
+
+
+
+![image-20211212204746752](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211212204746752.png)

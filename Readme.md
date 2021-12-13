@@ -1,4 +1,8 @@
 # 3D-Model-Visualization-System
+
+
+![Snipaste_2021-12-12_20-50-57](https://user-images.githubusercontent.com/96031665/145754321-ee2d6d1f-3ccd-4ca1-896b-0d1f1f1f087f.png)
+
 - Data
   - All data are put in the datasets folder including hdr, dat, transfer function and hatching files.
 
@@ -64,6 +68,3 @@
 
   - The file name of hatching texture would be like “hatch_number.jpg”.
 
-
-
-![image-20211212204746752](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211212204746752.png)

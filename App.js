@@ -1,7 +1,7 @@
 
 function parseMetadata( text )
 {
-	var lines = text.split( '\n' );
+	var lines = text.split( '\r\n' );
 	return {
 		"format" : lines[ 0 ],
 		"dims"   : lines[ 1 ].split( ' ' ).map( Number ),		
@@ -741,7 +741,7 @@ class App extends Widget {
 	        reader.readAsArrayBuffer( file );
 
 	        reader.onload = function() {
-
+				console.log(self.metadata.format);
 	        	if( self.metadata.format == "FLOAT" )
 	        	{
 	            	self.data = new Float32Array( reader.result );
